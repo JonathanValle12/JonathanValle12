@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jonathan</h1>
 <h3 align="center">Soy un frontend Development, actualmente vivo en España, Barcelona.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jonathanvalle12&label=Profile%20views&color=0e75b6&style=flat" alt="jonathanvalle12" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jonathanvalle12" alt="jonathanvalle12" /></a> </p>
-
 - 🌱 Actualmente estoy aprendiendo **nextjs, astro**
 
 - 📫 Como llegar a mi **jonathin_2002@outlook.es**
