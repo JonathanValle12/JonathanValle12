@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Jonathan</h1>
-<h3 align="center">Soy un frontend Developer, actualmente vivo en España, Barcelona.</h3>
+<h1 align="center">Hola 👋, Soy Jonathan</h1>
+<h3 align="center">Un frontend Developer, actualmente vivo en España, Barcelona.</h3>
 
 - 🌱 Actualmente estoy aprendiendo **nextjs, astro**
 
